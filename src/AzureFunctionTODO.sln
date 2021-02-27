@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctionsTODO", "AzureFunctionsTODO\AzureFunctionsTODO.csproj", "{F879F4B9-215A-4576-9B94-390EF6E06469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F879F4B9-215A-4576-9B94-390EF6E06469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F879F4B9-215A-4576-9B94-390EF6E06469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F879F4B9-215A-4576-9B94-390EF6E06469}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F879F4B9-215A-4576-9B94-390EF6E06469}.Debug|x64.Build.0 = Debug|Any CPU
+		{F879F4B9-215A-4576-9B94-390EF6E06469}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F879F4B9-215A-4576-9B94-390EF6E06469}.Debug|x86.Build.0 = Debug|Any CPU
+		{F879F4B9-215A-4576-9B94-390EF6E06469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F879F4B9-215A-4576-9B94-390EF6E06469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F879F4B9-215A-4576-9B94-390EF6E06469}.Release|x64.ActiveCfg = Release|Any CPU
+		{F879F4B9-215A-4576-9B94-390EF6E06469}.Release|x64.Build.0 = Release|Any CPU
+		{F879F4B9-215A-4576-9B94-390EF6E06469}.Release|x86.ActiveCfg = Release|Any CPU
+		{F879F4B9-215A-4576-9B94-390EF6E06469}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53C26D6E-94FA-451B-83B4-FD769BB82F6D}
+	EndGlobalSection
+EndGlobal
